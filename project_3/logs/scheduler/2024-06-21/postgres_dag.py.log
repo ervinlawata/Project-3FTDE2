@@ -1,0 +1,521 @@
+[2024-06-21T05:15:37.641+0000] {processor.py:161} INFO - Started process (PID=25) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:15:37.644+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:15:37.648+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:15:37.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:16:02.079+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:16:02.492+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:16:02.434+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:16:02.937+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:16:02.936+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:16:03.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 25.557 seconds
+[2024-06-21T05:16:33.722+0000] {processor.py:161} INFO - Started process (PID=30) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:16:33.726+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:16:33.729+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:16:33.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:16:46.201+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:16:48.766+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:16:48.761+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:16:48.856+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:16:48.856+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:16:49.062+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 15.362 seconds
+[2024-06-21T05:35:20.275+0000] {processor.py:161} INFO - Started process (PID=25) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:35:20.304+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:35:20.317+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:35:20.316+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:35:24.674+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:35:25.834+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:35:25.833+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:35:26.053+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:35:26.053+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:35:28.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 8.445 seconds
+[2024-06-21T05:35:59.662+0000] {processor.py:161} INFO - Started process (PID=30) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:35:59.671+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:35:59.681+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:35:59.680+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:36:02.529+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:36:02.799+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:36:02.798+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:36:02.981+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:36:02.980+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:36:03.101+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 3.582 seconds
+[2024-06-21T05:36:33.552+0000] {processor.py:161} INFO - Started process (PID=35) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:36:33.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:36:33.557+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:36:33.556+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:36:34.573+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:36:34.648+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:36:34.647+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:36:34.693+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:36:34.692+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:36:34.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.193 seconds
+[2024-06-21T05:37:05.154+0000] {processor.py:161} INFO - Started process (PID=40) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:37:05.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:37:05.160+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:37:05.159+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:37:06.428+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:37:06.467+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:37:06.466+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:37:06.501+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:37:06.501+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:37:06.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.407 seconds
+[2024-06-21T05:37:37.116+0000] {processor.py:161} INFO - Started process (PID=45) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:37:37.118+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:37:37.128+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:37:37.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:37:37.922+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:37:37.961+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:37:37.960+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:37:38.002+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:37:38.002+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:37:38.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 0.949 seconds
+[2024-06-21T05:38:08.387+0000] {processor.py:161} INFO - Started process (PID=50) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:38:08.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:38:08.392+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:38:08.391+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:38:09.243+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:38:09.283+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:38:09.282+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:38:09.318+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:38:09.317+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:38:09.355+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 0.979 seconds
+[2024-06-21T05:38:40.767+0000] {processor.py:161} INFO - Started process (PID=55) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:38:40.915+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:38:40.932+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:38:40.932+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:38:45.924+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:38:45.965+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:38:45.964+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:38:46.011+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:38:46.010+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:38:46.044+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 5.309 seconds
+[2024-06-21T05:39:16.678+0000] {processor.py:161} INFO - Started process (PID=60) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:39:16.680+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:39:16.697+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:39:16.696+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:39:17.719+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:39:17.779+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:39:17.778+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:39:17.855+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:39:17.852+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:39:17.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.260 seconds
+[2024-06-21T05:46:35.360+0000] {processor.py:161} INFO - Started process (PID=40) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:46:35.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:46:35.368+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:46:35.367+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:46:39.699+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:46:40.260+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:46:40.259+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:46:40.563+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:46:40.554+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:46:40.694+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 5.356 seconds
+[2024-06-21T05:47:11.116+0000] {processor.py:161} INFO - Started process (PID=49) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:47:11.137+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:47:11.148+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:47:11.147+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:47:13.961+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:47:14.204+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:47:14.203+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:47:14.427+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:47:14.426+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:47:14.630+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 3.557 seconds
+[2024-06-21T05:47:45.630+0000] {processor.py:161} INFO - Started process (PID=54) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:47:45.658+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:47:45.670+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:47:45.669+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:47:47.959+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:47:48.007+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:47:48.006+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:47:48.063+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:47:48.063+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:47:48.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 2.520 seconds
+[2024-06-21T05:48:18.730+0000] {processor.py:161} INFO - Started process (PID=59) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:48:18.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:48:18.738+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:48:18.737+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:48:19.749+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:48:19.842+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:48:19.840+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:48:19.953+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:48:19.952+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:48:20.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.328 seconds
+[2024-06-21T05:48:50.529+0000] {processor.py:161} INFO - Started process (PID=64) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:48:50.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:48:50.534+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:48:50.534+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:48:51.821+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:48:51.885+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:48:51.884+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:48:51.934+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:48:51.934+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:48:51.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.446 seconds
+[2024-06-21T05:49:22.111+0000] {processor.py:161} INFO - Started process (PID=69) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:49:22.113+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:49:22.116+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:49:22.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:49:23.352+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:49:23.394+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:49:23.394+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:49:23.434+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:49:23.433+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:49:23.477+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.378 seconds
+[2024-06-21T05:49:53.768+0000] {processor.py:161} INFO - Started process (PID=71) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:49:53.770+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:49:53.773+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:49:53.773+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:49:54.911+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:49:54.982+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:49:54.981+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:49:55.082+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:49:55.082+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:49:55.209+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.459 seconds
+[2024-06-21T05:50:25.585+0000] {processor.py:161} INFO - Started process (PID=76) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:50:25.588+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:50:25.594+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:50:25.592+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:50:26.574+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:50:26.614+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:50:26.613+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:50:26.658+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:50:26.657+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:50:26.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.130 seconds
+[2024-06-21T05:50:57.048+0000] {processor.py:161} INFO - Started process (PID=81) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:50:57.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:50:57.053+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:50:57.053+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:50:57.998+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:50:58.050+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:50:58.049+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:50:58.093+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:50:58.093+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:50:58.134+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.100 seconds
+[2024-06-21T05:51:28.413+0000] {processor.py:161} INFO - Started process (PID=86) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:51:28.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:51:28.417+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:51:28.417+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:51:29.229+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:51:29.272+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:51:29.271+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:51:29.305+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:51:29.305+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:51:29.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 0.938 seconds
+[2024-06-21T05:51:59.927+0000] {processor.py:161} INFO - Started process (PID=91) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:51:59.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:51:59.936+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:51:59.934+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:52:00.961+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:52:00.998+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:52:00.997+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:52:01.032+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:52:01.031+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:52:01.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.157 seconds
+[2024-06-21T05:52:31.449+0000] {processor.py:161} INFO - Started process (PID=96) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:52:31.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:52:31.456+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:52:31.456+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:52:32.626+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:52:32.666+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:52:32.665+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:52:32.702+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:52:32.702+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:52:32.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.308 seconds
+[2024-06-21T05:53:02.991+0000] {processor.py:161} INFO - Started process (PID=101) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:53:02.993+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:53:02.998+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:53:02.997+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:53:03.897+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:53:03.935+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:53:03.935+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:53:03.971+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:53:03.971+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:53:04.002+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.026 seconds
+[2024-06-21T05:53:34.345+0000] {processor.py:161} INFO - Started process (PID=106) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:53:34.346+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:53:34.350+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:53:34.349+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:53:35.186+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:53:35.237+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:53:35.236+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:53:35.362+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:53:35.361+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:53:35.495+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.160 seconds
+[2024-06-21T05:54:05.664+0000] {processor.py:161} INFO - Started process (PID=111) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:54:05.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:54:05.685+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:54:05.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:54:07.135+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:54:07.201+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:54:07.201+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:54:07.243+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:54:07.243+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:54:07.279+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.630 seconds
+[2024-06-21T05:54:38.201+0000] {processor.py:161} INFO - Started process (PID=116) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:54:38.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:54:38.213+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:54:38.213+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:54:39.212+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:54:39.256+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:54:39.256+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:54:39.291+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:54:39.290+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:54:39.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.144 seconds
+[2024-06-21T05:55:09.455+0000] {processor.py:161} INFO - Started process (PID=121) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:55:09.458+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:55:09.466+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:55:09.465+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:55:10.375+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:55:10.418+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:55:10.417+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:55:10.482+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:55:10.482+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:55:10.538+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.100 seconds
+[2024-06-21T05:55:40.766+0000] {processor.py:161} INFO - Started process (PID=126) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:55:40.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:55:40.771+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:55:40.770+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:55:41.807+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:55:41.842+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:55:41.842+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:55:41.880+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:55:41.879+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:55:41.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.155 seconds
+[2024-06-21T05:56:12.175+0000] {processor.py:161} INFO - Started process (PID=128) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:56:12.176+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:56:12.179+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:56:12.179+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:56:13.349+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:56:13.441+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:56:13.440+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:56:13.493+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:56:13.492+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:56:13.538+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.378 seconds
+[2024-06-21T05:56:43.980+0000] {processor.py:161} INFO - Started process (PID=133) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:56:43.983+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:56:43.986+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:56:43.986+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:56:44.875+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:56:44.913+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:56:44.912+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:56:44.945+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:56:44.945+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:56:44.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.010 seconds
+[2024-06-21T05:57:15.338+0000] {processor.py:161} INFO - Started process (PID=138) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:57:15.340+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:57:15.346+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:57:15.345+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:57:16.624+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:57:16.689+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:57:16.687+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:57:16.745+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:57:16.745+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:57:16.819+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.495 seconds
+[2024-06-21T05:57:47.713+0000] {processor.py:161} INFO - Started process (PID=143) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:57:47.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:57:47.718+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:57:47.718+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:57:48.778+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:57:48.817+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:57:48.816+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:57:48.849+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:57:48.849+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:57:48.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.187 seconds
+[2024-06-21T05:58:19.258+0000] {processor.py:161} INFO - Started process (PID=148) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:58:19.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:58:19.265+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:58:19.265+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:58:20.112+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:58:20.152+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:58:20.151+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:58:20.191+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:58:20.191+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:58:20.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 0.988 seconds
+[2024-06-21T05:58:50.615+0000] {processor.py:161} INFO - Started process (PID=153) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:58:50.617+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:58:50.620+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:58:50.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:58:51.446+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:58:51.492+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:58:51.492+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:58:51.528+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:58:51.527+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:58:51.576+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 0.971 seconds
+[2024-06-21T05:59:21.977+0000] {processor.py:161} INFO - Started process (PID=158) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:59:21.979+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:59:21.983+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:59:21.982+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:59:22.875+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:59:22.930+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:59:22.928+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:59:22.994+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:59:22.994+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:59:23.040+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.080 seconds
+[2024-06-21T05:59:53.389+0000] {processor.py:161} INFO - Started process (PID=163) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:59:53.391+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T05:59:53.396+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:59:53.395+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:59:54.389+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T05:59:54.428+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:59:54.428+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T05:59:54.464+0000] {logging_mixin.py:188} INFO - [2024-06-21T05:59:54.464+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T05:59:54.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.143 seconds
+[2024-06-21T06:00:24.880+0000] {processor.py:161} INFO - Started process (PID=168) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:00:24.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:00:24.885+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:00:24.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:00:25.886+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:00:25.963+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:00:25.962+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:00:26.020+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:00:26.020+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:00:26.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.213 seconds
+[2024-06-21T06:00:56.581+0000] {processor.py:161} INFO - Started process (PID=173) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:00:56.582+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:00:56.585+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:00:56.585+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:00:57.557+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:00:57.600+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:00:57.600+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:00:57.666+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:00:57.665+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:00:57.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.152 seconds
+[2024-06-21T06:01:28.088+0000] {processor.py:161} INFO - Started process (PID=178) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:01:28.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:01:28.093+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:01:28.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:01:29.369+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:01:29.411+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:01:29.410+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:01:29.447+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:01:29.447+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:01:29.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.408 seconds
+[2024-06-21T06:01:59.786+0000] {processor.py:161} INFO - Started process (PID=183) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:01:59.789+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:01:59.794+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:01:59.793+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:02:01.076+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:02:01.128+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:02:01.127+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:02:01.162+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:02:01.162+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:02:01.196+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.440 seconds
+[2024-06-21T06:02:31.546+0000] {processor.py:161} INFO - Started process (PID=188) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:02:31.548+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:02:31.552+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:02:31.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:02:32.919+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:02:32.985+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:02:32.984+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:02:33.053+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:02:33.052+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:02:33.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.599 seconds
+[2024-06-21T06:03:03.237+0000] {processor.py:161} INFO - Started process (PID=192) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:03:03.244+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:03:03.250+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:03:03.250+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:03:04.873+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:03:04.920+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:03:04.919+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:03:04.980+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:03:04.979+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:03:05.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.840 seconds
+[2024-06-21T06:03:35.533+0000] {processor.py:161} INFO - Started process (PID=195) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:03:35.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:03:35.548+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:03:35.542+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:03:37.436+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:03:37.501+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:03:37.500+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:03:37.569+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:03:37.568+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:03:37.660+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 2.164 seconds
+[2024-06-21T06:04:08.013+0000] {processor.py:161} INFO - Started process (PID=200) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:04:08.016+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:04:08.020+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:04:08.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:04:09.008+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:04:09.122+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:04:09.120+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:04:09.176+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:04:09.175+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:04:09.222+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.227 seconds
+[2024-06-21T06:04:39.668+0000] {processor.py:161} INFO - Started process (PID=205) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:04:39.669+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:04:39.673+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:04:39.672+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:04:40.550+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:04:40.589+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:04:40.588+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:04:40.624+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:04:40.624+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:04:40.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.001 seconds
+[2024-06-21T06:05:11.091+0000] {processor.py:161} INFO - Started process (PID=210) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:05:11.095+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:05:11.099+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:05:11.098+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:05:12.211+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:05:12.265+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:05:12.264+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:05:12.306+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:05:12.306+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:05:12.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.282 seconds
+[2024-06-21T06:05:42.498+0000] {processor.py:161} INFO - Started process (PID=215) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:05:42.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:05:42.503+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:05:42.502+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:05:43.333+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:05:43.374+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:05:43.374+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:05:43.409+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:05:43.408+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:05:43.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 0.969 seconds
+[2024-06-21T06:06:13.824+0000] {processor.py:161} INFO - Started process (PID=220) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:06:13.826+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:06:13.830+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:06:13.830+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:06:14.723+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:06:14.800+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:06:14.799+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:06:14.916+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:06:14.916+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:06:14.959+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.149 seconds
+[2024-06-21T06:06:45.400+0000] {processor.py:161} INFO - Started process (PID=225) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:06:45.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:06:45.405+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:06:45.404+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:06:46.770+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:06:46.816+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:06:46.816+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:06:46.858+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:06:46.857+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:06:46.900+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.513 seconds
+[2024-06-21T06:07:17.270+0000] {processor.py:161} INFO - Started process (PID=230) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:07:17.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:07:17.275+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:07:17.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:07:18.104+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:07:18.158+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:07:18.157+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:07:18.234+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:07:18.234+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:07:18.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.034 seconds
+[2024-06-21T06:07:48.713+0000] {processor.py:161} INFO - Started process (PID=235) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:07:48.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:07:48.719+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:07:48.718+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:07:50.048+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:07:50.127+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:07:50.125+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:07:50.251+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:07:50.250+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:07:50.314+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.619 seconds
+[2024-06-21T06:08:20.679+0000] {processor.py:161} INFO - Started process (PID=240) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:08:20.680+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:08:20.683+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:08:20.683+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:08:21.560+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:08:21.618+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:08:21.617+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:08:21.683+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:08:21.678+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:08:21.749+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.084 seconds
+[2024-06-21T06:08:51.976+0000] {processor.py:161} INFO - Started process (PID=245) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:08:51.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:08:51.982+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:08:51.982+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:08:52.971+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:08:53.043+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:08:53.042+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:08:53.104+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:08:53.104+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:08:53.149+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.183 seconds
+[2024-06-21T06:09:23.511+0000] {processor.py:161} INFO - Started process (PID=250) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:09:23.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:09:23.523+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:09:23.522+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:09:24.349+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:09:24.411+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:09:24.410+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:09:24.445+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:09:24.444+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:09:24.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.002 seconds
+[2024-06-21T06:09:54.875+0000] {processor.py:161} INFO - Started process (PID=255) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:09:54.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:09:54.880+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:09:54.879+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:09:55.791+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:09:55.834+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:09:55.834+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:09:55.896+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:09:55.895+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:09:55.948+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.083 seconds
+[2024-06-21T06:10:26.197+0000] {processor.py:161} INFO - Started process (PID=260) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:10:26.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:10:26.218+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:10:26.217+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:10:27.579+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:10:27.623+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:10:27.622+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:10:27.672+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:10:27.672+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:10:27.726+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.557 seconds
+[2024-06-21T06:10:58.254+0000] {processor.py:161} INFO - Started process (PID=265) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:10:58.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:10:58.275+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:10:58.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:10:59.288+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:10:59.328+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:10:59.328+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:10:59.362+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:10:59.361+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:10:59.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.157 seconds
+[2024-06-21T06:11:29.568+0000] {processor.py:161} INFO - Started process (PID=269) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:11:29.574+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:11:29.578+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:11:29.577+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:11:31.760+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:11:31.833+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:11:31.833+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:11:31.892+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:11:31.892+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:11:31.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 2.443 seconds
+[2024-06-21T06:12:02.084+0000] {processor.py:161} INFO - Started process (PID=272) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:12:02.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:12:02.090+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:12:02.090+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:12:03.267+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:12:03.319+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:12:03.318+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:12:03.361+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:12:03.361+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:12:03.404+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.331 seconds
+[2024-06-21T06:12:34.093+0000] {processor.py:161} INFO - Started process (PID=277) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:12:34.094+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:12:34.097+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:12:34.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:12:34.990+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:12:35.033+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:12:35.032+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:12:35.070+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:12:35.069+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:12:35.103+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.022 seconds
+[2024-06-21T06:13:05.488+0000] {processor.py:161} INFO - Started process (PID=282) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:13:05.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:13:05.496+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:13:05.495+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:13:06.559+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:13:06.619+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:13:06.619+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:13:06.691+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:13:06.691+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:13:06.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.332 seconds
+[2024-06-21T06:13:37.394+0000] {processor.py:161} INFO - Started process (PID=287) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:13:37.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:13:37.423+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:13:37.422+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:13:42.909+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:13:43.014+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:13:43.013+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:13:43.104+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:13:43.104+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:13:43.227+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 5.854 seconds
+[2024-06-21T06:14:15.251+0000] {processor.py:161} INFO - Started process (PID=292) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:14:15.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:14:15.300+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:14:15.299+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:14:18.235+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:14:18.293+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:14:18.292+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:14:18.353+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:14:18.353+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:14:18.396+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 3.172 seconds
+[2024-06-21T06:14:51.118+0000] {processor.py:161} INFO - Started process (PID=297) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:14:51.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:14:51.269+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:14:51.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:14:56.420+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:14:56.566+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:14:56.564+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:14:56.726+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:14:56.726+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:14:56.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 5.752 seconds
+[2024-06-21T06:15:27.356+0000] {processor.py:161} INFO - Started process (PID=302) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:15:27.359+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:15:27.363+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:15:27.362+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:15:28.483+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:15:28.527+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:15:28.526+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:15:28.566+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:15:28.565+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:15:28.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.268 seconds
+[2024-06-21T06:15:59.191+0000] {processor.py:161} INFO - Started process (PID=307) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:15:59.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:15:59.202+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:15:59.202+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:16:00.532+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:16:00.606+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:16:00.605+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:16:00.678+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:16:00.678+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:16:00.735+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.561 seconds
+[2024-06-21T06:16:31.662+0000] {processor.py:161} INFO - Started process (PID=312) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:16:31.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:16:31.667+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:16:31.667+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:16:33.112+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:16:33.188+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:16:33.187+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:16:33.252+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:16:33.252+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:16:33.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.693 seconds
+[2024-06-21T06:17:03.878+0000] {processor.py:161} INFO - Started process (PID=317) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:17:03.886+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:17:03.892+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:17:03.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:17:05.420+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:17:05.527+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:17:05.526+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:17:05.591+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:17:05.591+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:17:05.647+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.796 seconds
+[2024-06-21T06:17:36.050+0000] {processor.py:161} INFO - Started process (PID=322) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:17:36.054+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:17:36.066+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:17:36.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:17:38.262+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:17:38.299+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:17:38.299+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:17:38.333+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:17:38.333+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:17:38.365+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 2.339 seconds
+[2024-06-21T06:18:08.838+0000] {processor.py:161} INFO - Started process (PID=327) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:18:08.841+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:18:08.850+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:18:08.850+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:18:09.654+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:18:09.699+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:18:09.698+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:18:09.732+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:18:09.732+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:18:09.765+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 0.951 seconds
+[2024-06-21T06:18:40.173+0000] {processor.py:161} INFO - Started process (PID=332) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:18:40.176+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:18:40.180+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:18:40.180+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:18:41.068+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:18:41.112+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:18:41.111+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:18:41.148+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:18:41.148+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:18:41.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.028 seconds
+[2024-06-21T06:19:11.799+0000] {processor.py:161} INFO - Started process (PID=337) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:19:11.802+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:19:11.808+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:19:11.807+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:19:13.263+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:19:13.373+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:19:13.364+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:19:13.498+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:19:13.498+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:19:13.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.790 seconds
+[2024-06-21T06:19:44.056+0000] {processor.py:161} INFO - Started process (PID=341) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:19:44.061+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:19:44.065+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:19:44.064+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:19:45.496+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:19:45.557+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:19:45.555+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:19:45.598+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:19:45.597+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:19:45.657+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.624 seconds
+[2024-06-21T06:20:16.174+0000] {processor.py:161} INFO - Started process (PID=344) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:20:16.175+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:20:16.179+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:20:16.178+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:20:17.247+0000] {processor.py:840} INFO - DAG(s) 'csv_to_postgres' retrieved from /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:20:17.317+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:20:17.315+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-21T06:20:17.407+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:20:17.406+0000] {dag.py:3954} INFO - Setting next_dagrun for csv_to_postgres to 2024-06-18T00:00:00+00:00, run_after=2024-06-19T00:00:00+00:00
+[2024-06-21T06:20:17.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/postgres_dag.py took 1.321 seconds
+[2024-06-21T06:20:48.279+0000] {processor.py:161} INFO - Started process (PID=349) to work on /opt/airflow/dags/postgres_dag.py
+[2024-06-21T06:20:48.306+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/postgres_dag.py for tasks to queue
+[2024-06-21T06:20:48.350+0000] {logging_mixin.py:188} INFO - [2024-06-21T06:20:48.349+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/postgres_dag.py
